@@ -27,7 +27,7 @@ function StudentForm() {
   };
 
   const validateForm = () => {
-    // Validate grades
+  
     const invalidGrades = grades.some(grade => {
       const num = parseFloat(grade);
       return num < 0 || num > 10;
@@ -39,7 +39,7 @@ function StudentForm() {
       return false;
     }
 
-    // Validate attendance
+   
     const attendanceNum = parseFloat(attendance.replace('%', ''));
     if (attendanceNum < 0 || attendanceNum > 100) {
       setError('A frequência deve estar entre 0% e 100%');
@@ -57,7 +57,7 @@ function StudentForm() {
       return;
     }
 
-    // Converte as notas e a frequência para números
+    
     const numericGrades = grades.map(g => parseFloat(g));
     const numericAttendance = parseFloat(attendance.replace('%', ''));
 

@@ -14,9 +14,9 @@ function App() {
   );
 }
 
-// Create a separate component for the navigation
+
 function AppNavigation() {
-  const navigate = useNavigate(); // Now useNavigate is used inside Router
+  const navigate = useNavigate(); 
 
   return (
     <>
