@@ -32,7 +32,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### Backend (API)
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-de-notas.git
+   git clone https://github.com/seu-usuario/sistema-de-notas.git](https://github.com/gs10111/TesteDtiFrontEnd.git
    ```
 2. Acesse a pasta do frontEnd:
    ```bash
