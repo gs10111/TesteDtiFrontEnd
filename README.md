@@ -6,7 +6,7 @@ O **Sistema de Notas Escolar** é uma aplicação full stack desenvolvida em **.
 ## 🚀 Tecnologias Utilizadas
 
 ### Backend:
-- **.NET** (versão utilizada no projeto)
+- **.NET** 
 - **MongoDB** para armazenamento de dados
 - **MongoDB.Driver** para comunicação com o banco de dados
 - **ASP.NET Core** para a API
