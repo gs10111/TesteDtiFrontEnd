@@ -29,7 +29,8 @@ Antes de executar o projeto, certifique-se de ter instalado:
 - **Node.js** e **npm** 
  - **Visual Studio Code** 
 
-### Backend (API)
+### Front end
+(lembre de estar rodando a api para o funcionamento total do sitema)
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/sistema-de-notas.git](https://github.com/gs10111/TesteDtiFrontEnd.git
